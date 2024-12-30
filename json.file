@@ -1,0 +1,9 @@
+{
+    "id": "/subscriptions/c026ac07-ffac-4e08-b69c-9240e6d12833/resourceGroups/az104-rg7",
+    "name": "az104-rg7",
+    "type": "Microsoft.Resources/resourceGroups",
+    "location": "eastus",
+    "properties": {
+        "provisioningState": "Succeeded"
+    }
+}
